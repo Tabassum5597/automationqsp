@@ -4,7 +4,7 @@ public class NewCode {
 
 	public static void main(String[] args) {
 		// TODO Auto-generated method stub
-System.out.println("to much HARD WORK");
+System.out.println("123");
 	}
 
 }
